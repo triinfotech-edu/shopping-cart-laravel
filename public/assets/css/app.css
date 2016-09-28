@@ -1,0 +1,8 @@
+.thumbnail .rupee {
+	font-weight: bold;
+	font-size: 28px;
+}
+
+.thumbnail img {
+	max-height: 150px;
+}
